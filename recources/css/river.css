@@ -1,0 +1,36 @@
+.river {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 3px solid #4b4545;
+    border-radius: 5px;
+    margin-bottom: 5rem;
+    padding: 20px;
+    max-width: 750px;
+    cursor: pointer;
+}
+
+.river img {
+    max-width: 100%;
+    margin-bottom: 2rem;
+}
+
+.river h2 {
+    font-size: 24px;
+}
+
+.river p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 0;
+}
+
+#biggestrivers-h1 {
+    margin-bottom: 4rem;
+    font-size: 40px;
+}
+
+#river-p {
+    font-size: 23px;
+}

@@ -1,0 +1,45 @@
+#creators {
+    font-size: 2rem;
+    margin-left: -20rem;
+}
+
+#span-creators {
+    margin-right: 1rem;
+    font-size: 2rem;
+}
+
+#infoPage-contaniner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 3px solid #8f8b8b;
+    border-radius: 5px;
+    margin-bottom: 5rem;
+    padding: 20px;
+    width: 34vw;
+    height: 35vh;
+    background-color: rgb(26, 57, 99);
+    margin-top: 3.3rem;
+    color: rgb(158, 214, 240);
+}
+
+#information-p {
+    font-size: 1.5rem;
+}
+
+.more-info {
+    font-size: 2.1rem;
+}
+
+.more-info a {
+    text-decoration: none;
+    color: rgb(26, 178, 224);
+}
+
+#first-link {
+    text-decoration: none;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: rgb(26, 178, 224); 
+}
